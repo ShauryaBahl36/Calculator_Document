@@ -1,6 +1,6 @@
 # mkdocs.yml
 
-site_name: Calculation Docs
+site_name: Calculation
 
 theme:
   name: "material"
